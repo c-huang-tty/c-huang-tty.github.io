@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-06-01
 venue: 'Reliability Engineering and System Safety'
 paperurl: ''
-citation: ''
+citation: 'C. Huang and L. Li, "Architectural Design and Analysis of a Steer-by-Wire System in View of Functional Safety Concept," in Reliability Engineering & System Safety, vol. 198, pp. 106822, June. 2020.'
 
 ---
 ## Abstract
