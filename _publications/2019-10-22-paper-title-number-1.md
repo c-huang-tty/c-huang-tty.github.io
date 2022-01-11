@@ -6,6 +6,7 @@ excerpt: ''
 date: 2019-10-22
 venue: 'IEEE/ASME Transactions on Mechatronics'
 paperurl: ''
+citation: 'C. Huang, X. Wang, L. Li and X. Chen, "Multistructure Radial Basis Function Neural-Networks-Based Extended Model Predictive Control: Application to Clutch Control," in IEEE/ASME Transactions on Mechatronics, vol. 24, no. 6, pp. 2519-2530, Dec. 2019.'
 
 ---
 ## Abstract
