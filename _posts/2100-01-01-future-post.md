@@ -6,7 +6,7 @@ tags:
 
 ---
 
-This future post is left on purpose for holding table of contents. 
+This post is left for holding table of contents. 
 
 ### Data Sharing 
 - [Between Functions Within A File](https://c-huang-tty.github.io/posts/2022/01/01/blog-post-1/)
