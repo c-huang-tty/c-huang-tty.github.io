@@ -58,5 +58,5 @@ int main() {
 	cout << *ptr << endl;
 	function(ptr);
 	cout << *ptr << endl;
-  return 0;
+    return 0;
 }
