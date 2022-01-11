@@ -1,7 +1,7 @@
 ---
 title: 'Table of Contents'
 date: 2023-01-01
-permalink: /posts/201223/01/01/blog-post-4/
+permalink: /posts/2023/01/01/future-post/
 tags:
 
 ---
