@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
+---
 
 ## C++ Mini-Projects
 
