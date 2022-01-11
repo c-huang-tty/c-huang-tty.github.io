@@ -14,3 +14,4 @@ In the context of intelligent and automated vehicles, drive-by-wire (DBW) system
 
 ## Citation
 Recommended citation: C. Huang and L. Li, "Architectural Design and Analysis of a Steer-by-Wire System in View of Functional Safety Concept," in Reliability Engineering & System Safety, vol. 198, pp. 106822, June. 2020. ([Paperurl](https://www.sciencedirect.com/science/article/pii/S0951832019305034))
+
