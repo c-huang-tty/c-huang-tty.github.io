@@ -1,7 +1,7 @@
 ---
 title: "Architectural Design and Analysis of a Steer-by-Wire System in View of Functional Safety Concept"
 collection: publications
-permalink: /publication/2020/06/01/paper-title-number-3
+permalink: /publication/2020/06/01/RESS
 excerpt: ''
 date: 2020-06-01
 venue: 'Reliability Engineering and System Safety'
