@@ -6,7 +6,6 @@ excerpt: ''
 date: 2019-10-22
 venue: 'IEEE/ASME Transactions on Mechatronics'
 paperurl: ''
-citation: ''
 
 ---
 ## Abstract
