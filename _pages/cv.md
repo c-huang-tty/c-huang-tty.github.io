@@ -41,7 +41,7 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-## Service
+## Services
 * Session Chair for the IEEE 28th International Symposium on Industrial Electronics, June 12--14, 2019, Vancouver, BC, Canada.
 * Acting Session Chair for the 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling, September 20--22, 2018, Chang Chun, China.
 * The 2019 IEEEXtreme 13.0 Ambassador for the IEEE Beijing Section.
