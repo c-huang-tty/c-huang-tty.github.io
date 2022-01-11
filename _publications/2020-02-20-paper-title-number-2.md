@@ -5,8 +5,8 @@ permalink: /publication/2020/02/20/TVT
 excerpt: ''
 date: 2020-02-20
 venue: ' IEEE Transactions on Vehicular Technology'
-paperurl: 'https://ieeexplore.ieee.org/document/9005229'
-citation: ''
+paperurl: ''
+citation: 'C. Huang, L. Li, Y. Liu and L. Xiao, "Robust Observer Based Intermittent Forces Estimation for Driver Intervention Identification," in IEEE Transactions on Vehicular Technology, vol. 69, no. 4, pp. 3628-3640, April 2020.'
 
 ---
 ## Abstract
