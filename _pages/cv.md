@@ -19,11 +19,11 @@ redirect_from:
 ## Honors
 * Tsinghua Outstanding Graduates, Issued by Tsinghua University, June, 2020.
 * Graduate National Scholarship, Issued by the Ministry of Education of the People's Republic of China, 2018-2019.
-* Second Class Comprehensive Excellence Scholarship, Issued by Tsinghua University, 2017-2018, Tsinghua University.
+* Second Class Comprehensive Excellence Scholarship, Issued by Tsinghua University, 2017-2018.
 * Shanghai Outstanding Graduates, Issued by Shanghai Municipal Education Commission, May, 2017.
 * Undergraduate National Scholarship, Issued by the Ministry of Education of the People's Republic of China, 2012-2013, 2014-2015, 2015-2016.
 * Tongji Outstanding Students, Issued by Tongji University, 2012-2013, 2014-2015, 2015-2016.
-* China Road and Bridge Scholarship, Issued by Tongji University, 2012-2013, Tongji University.
+* China Road and Bridge Scholarship, Issued by Tongji University, 2012-2013.
   
 ## Language Proficiency
 * Chinese: Native Speaker
