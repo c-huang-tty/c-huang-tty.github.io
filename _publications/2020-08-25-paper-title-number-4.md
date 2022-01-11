@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-08-25
 venue: 'Journal of Automobile Engineering'
 paperurl: ''
-citation: ''
+citation: 'Huang, Chao, et al. “Comparative Study of Two Types of Control Loops Aiming at Trajectory Tracking of a Steer-by-Wire System with Coulomb Friction，” in Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, vol. 235, no. 1, pp. 16–31, Jan. 2021.'
 
 ---
 ## Abstract
