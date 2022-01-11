@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019/07/03/ICARM
 excerpt: ''
 date: 2019-07-03
-venue: '2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM)'
+venue: '2019 the 4th IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)'
 paperurl: ''
 citation: 'C. Huang, Y. Liu, L. Li and Z. Chen, "Safety Oriented State Transitions in Level 3 Automated Driving Systems: A General Framework," 2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM), pp. 918-923, July 2019.'
 
