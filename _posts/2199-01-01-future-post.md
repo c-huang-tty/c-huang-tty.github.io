@@ -1,11 +1,22 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Table of Contents'
+date: 2023-01-01
+permalink: /posts/201223/01/01/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+### Data Sharing 
+- [Between Functions Within A File](https://c-huang-tty.github.io/posts/2022/01/01/blog-post-1/)
+- [Between Files](https://c-huang-tty.github.io/posts/2022/01/02/blog-post-1/)
+- [Between Threads](https://c-huang-tty.github.io/posts/2022/01/03/blog-post-1/)
+- [Between Processes](https://c-huang-tty.github.io/posts/2022/01/04/blog-post-1/)
+- [Between Local Devices](https://c-huang-tty.github.io/posts/2022/01/05/blog-post-1/)
+- [Between Remote Devices](https://c-huang-tty.github.io/posts/2022/01/06/blog-post-1/)
+
+### C++ Basics
+- [References and Pointers Basics](https://c-huang-tty.github.io/posts/2022/01/07/blog-post-1/)
+- [Passing and Returning References and Pointers](https://c-huang-tty.github.io/posts/2022/01/08/blog-post-1/)
+- [Rvalue and Rvalue References](https://c-huang-tty.github.io/posts/2022/01/09/blog-post-1/)
+- [Function Basics](https://c-huang-tty.github.io/posts/2022/01/10/blog-post-1/)
+- [Inline and Constexpr Functions](https://c-huang-tty.github.io/posts/2022/01/11/blog-post-1/)
