@@ -1,10 +1,12 @@
 ---
 title: 'Table of Contents'
-date: 2023-01-01
-permalink: /posts/2023/01/01/future-post/
+date: 2100-01-01
+permalink: /posts/2100/01/01/future-post/
 tags:
 
 ---
+
+This future post is left on purpose for holding table of contents. 
 
 ### Data Sharing 
 - [Between Functions Within A File](https://c-huang-tty.github.io/posts/2022/01/01/blog-post-1/)
