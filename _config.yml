@@ -17,7 +17,7 @@ repository               : "c-huang-tty/c-huang-tty.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chao Huang"
   avatar           : "profile.jpg"
-  bio              : "Chao Huang received the B.S. degree in M.E. from Tongji Univer sity, Shanghai, China, in 2017 and M.S. degree in M.E. from Tsinghua University, Beijing, China. He is currently working towards Ph.D. degree in M.E. from Institute of Industrial Science at the University of Tokyo, Tokyo, Japan. His research interests include driver monitoring and prediction, human-machine-interface, and automated driving."
+  bio              : "Chao Huang received B.S. degree in M.E. from Tongji University, Shanghai, China, in 2017 and M.S. degree in M.E. from Tsinghua University, Beijing, China. He is currently working towards Ph.D. degree in M.E. from Institute of Industrial Science at the University of Tokyo, Tokyo, Japan. His research interests include driver monitoring and prediction, human-machine-interface, and automated driving."
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=caaDgx0AAAAJ&hl=en"
-  email            :
+  email            : "c-huang@iis.u-tokyo.ac.jp"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/chao-huang-utokyo"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0474-6662"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
