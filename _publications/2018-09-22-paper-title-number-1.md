@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-09-22
 venue: '2018 the 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling (E-CoSM)'
 paperurl: ''
-citation: 'C. Huang, L. Li and X. Wang, "Extended Model Predictive Control Based on Multi-Structure RBF Networks: Design and Application to Clutch Control," in 2018 the 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling (E-CoSM), vol. 51, no. 31, pp. 653-658, Sep. 2018.'
+citation: 'C. Huang, L. Li and X. Wang, "Extended Model Predictive Control Based on Multi-Structure RBF Networks: Design and Application to Clutch Control," 2018 the 5th IFAC Conference on Engine and Powertrain Control, Simulation and Modeling (E-CoSM), pp. 653-658, Sep. 2018.'
 
 ---
 ## Abstract
