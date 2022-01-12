@@ -3,6 +3,8 @@ Personal academic website.
 
 ---
 ## Table of Contents
+
+---
 ### Data Sharing 
 - [Between Functions Within A File](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-01-blog-post-1.md)
 - [Between Files](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-02-blog-post-1.md)
