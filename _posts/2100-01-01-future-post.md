@@ -1,7 +1,7 @@
 ---
 title: 'Table of Contents'
 date: 2100-01-01
-permalink: /posts/2100/01/01/future-post/
+permalink: /posts/2100/01/01/table-of-contents/
 tags:
 
 ---
