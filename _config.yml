@@ -10,7 +10,7 @@ locale                   : "ja-JP"
 title                    : "Chao Huang"
 title_separator          : "-"
 name                     : &name "Chao Huang"
-description              : &description "Ph.D. student at the University of Tokyo."
+description              : &description "Ph.D. student in mechanical engineering at the University of Tokyo."
 url                      : https://c-huang-tty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "c-huang-tty/c-huang-tty.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chao Huang"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. in M.E. at UTokyo. "
+  bio              : "Ph.D. student in M.E. at UTokyo. "
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
