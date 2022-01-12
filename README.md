@@ -1,7 +1,8 @@
 ### [c-huang-tty.github.io](https://c-huang-tty.github.io/)
 Personal academic website.
 
-### Table of Contents
+---
+## Table of Contents
 ### Data Sharing 
 - [Between Functions Within A File](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-01-blog-post-1.md)
 - [Between Files](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-02-blog-post-1.md)
@@ -10,6 +11,7 @@ Personal academic website.
 - [Between Local Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-05-blog-post-1.md)
 - [Between Remote Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-06-blog-post-1.md)
 
+---
 ### C++ Basics
 - [References and Pointers Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-07-blog-post-1.md)
 - [Passing and Returning References and Pointers](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-08-blog-post-1.md)
