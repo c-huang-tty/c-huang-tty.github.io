@@ -23,3 +23,4 @@ This post is left for holding table of contents.
 - [Function Basics](https://c-huang-tty.github.io/posts/2022/01/10/blog-post-1/)
 - [Inline and Constexpr Functions](https://c-huang-tty.github.io/posts/2022/01/11/blog-post-1/)
 - [Functions Overloading and Matching](https://c-huang-tty.github.io/posts/2022/01/12/blog-post-1/)
+- [Argument Type Conversions](https://c-huang-tty.github.io/posts/2022/01/12/blog-post-2/)
