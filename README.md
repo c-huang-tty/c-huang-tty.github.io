@@ -20,3 +20,7 @@ Personal academic website.
 - [Functions Overloading and Matching](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-12-blog-post-1.md)
 - [Argument Type Conversions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-12-blog-post-2.md)
 - [Pointers to Functions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-13-blog-post-1.md)
+
+### Statistics
+- [Probability vs Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-01-blog-post-1.md)
+- [Applicationa of Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-02-blog-post-1.md)
