@@ -21,6 +21,7 @@ This post is left for holding table of contents.
 - [References and Pointers Basics](https://c-huang-tty.github.io/posts/2022/01/07/references-and-pointers-basics/)
 - [Passing and Returning References and Pointers](https://c-huang-tty.github.io/posts/2022/01/08/passing-and-returning-references-and-pointers/)
 - [Rvalue and Rvalue References](https://c-huang-tty.github.io/posts/2022/01/09/rvalue-and-rvalue-references/)
+
 ### Functions
 - [Function Basics](https://c-huang-tty.github.io/posts/2022/01/10/function-basics/)
 - [Inline and Constexpr Functions](https://c-huang-tty.github.io/posts/2022/01/11/inline-and-constexpr-functions/)
