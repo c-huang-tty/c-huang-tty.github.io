@@ -32,3 +32,7 @@ This post is left for holding table of contents.
 - [Between Remote Devices](https://c-huang-tty.github.io/posts/2022/01/06/data-sharing-between-remote-devices/)
 
 ## Statistics
+- [Probability vs Statistics](https://c-huang-tty.github.io/posts/2021/01/01/probability-and-statistics/)
+- [Application of Statistics](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
+
+
