@@ -33,6 +33,6 @@ This post is left for holding table of contents.
 
 ## Statistics
 - [Probability vs Statistics](https://c-huang-tty.github.io/posts/2021/01/01/probability-and-statistics/)
-- [Application of Statistics](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
+- [Shakespear's New Poem](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
 
 
