@@ -35,4 +35,7 @@ This post is left for holding table of contents.
 - [Probability vs Statistics](https://c-huang-tty.github.io/posts/2021/01/01/probability-and-statistics/)
 - [Shakespear's New Poem](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
 
+## Smart Eye
+- [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
+
 
