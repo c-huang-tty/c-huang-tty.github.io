@@ -37,5 +37,5 @@ This post is left for holding table of contents.
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
-
-
+- [Heading and Gaze Tracking](https://c-huang-tty.github.io/posts/2021/12/02/smart-eye-heading-and-gaze-tracking/)
+- [The World Model](https://c-huang-tty.github.io/posts/2021/12/03/smart-eye-world-model/)
