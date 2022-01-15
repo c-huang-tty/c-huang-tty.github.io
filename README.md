@@ -3,14 +3,6 @@ Personal academic website.
 
 ---
 ## Table of Contents
-### Data Sharing 
-- [Between Functions Within A File](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-01-blog-post-1.md)
-- [Between Files](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-02-blog-post-1.md)
-- [Between Threads](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-03-blog-post-1.md)
-- [Between Processes](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-04-blog-post-1.md)
-- [Between Local Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-05-blog-post-1.md)
-- [Between Remote Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-06-blog-post-1.md)
-
 ### C++ Basics
 - [References and Pointers Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-07-blog-post-1.md)
 - [Passing and Returning References and Pointers](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-08-blog-post-1.md)
@@ -20,6 +12,14 @@ Personal academic website.
 - [Functions Overloading and Matching](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-12-blog-post-1.md)
 - [Argument Type Conversions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-12-blog-post-2.md)
 - [Pointers to Functions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-13-blog-post-1.md)
+
+### Data Sharing 
+- [Between Functions Within A File](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-01-blog-post-1.md)
+- [Between Files](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-02-blog-post-1.md)
+- [Between Threads](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-03-blog-post-1.md)
+- [Between Processes](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-04-blog-post-1.md)
+- [Between Local Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-05-blog-post-1.md)
+- [Between Remote Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-06-blog-post-1.md)
 
 ### Statistics
 - [Probability vs Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-01-blog-post-1.md)
