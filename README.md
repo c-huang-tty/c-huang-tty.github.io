@@ -27,3 +27,5 @@ Personal academic website.
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
+- [Head and Gaze Tracking](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-02-blog-post-1.md)
+- [The World Model](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-03-blog-post-1.md)
