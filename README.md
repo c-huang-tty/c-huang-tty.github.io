@@ -24,7 +24,8 @@ Personal academic website.
 ### Statistics
 - [Probability vs Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-01-blog-post-1.md)
 - [Shakespear's New Poem](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-02-blog-post-1.md)
-- [Some Common Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-03-blog-post-1.md)
+- [Some Common Discrete Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-03-blog-post-1.md)
+- 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
 - [Head and Gaze Tracking](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-02-blog-post-1.md)
