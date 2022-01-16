@@ -34,7 +34,8 @@ This post is left for holding table of contents.
 ## Statistics
 - [Probability vs Statistics](https://c-huang-tty.github.io/posts/2021/01/01/probability-and-statistics/)
 - [Shakespear's New Poem](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
-- [Some Common Discrete Distributions](https://c-huang-tty.github.io/posts/2021/01/03/some-common-distributions/)
+- [Some Common Discrete Distributions](https://c-huang-tty.github.io/posts/2021/01/03/some-common-discrete-distributions/)
+- [Some Common Continuous Distributions](https://c-huang-tty.github.io/posts/2021/01/04/some-common-continuous-distributions/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
