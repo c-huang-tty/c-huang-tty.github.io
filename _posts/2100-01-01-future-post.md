@@ -35,6 +35,7 @@ This post is left for holding table of contents.
 - [Statistical Quantities](https://c-huang-tty.github.io/posts/2021/01/05/statistical-quantities/)
 - [Order Statistics](https://c-huang-tty.github.io/posts/2021/01/06/order-statistics/)
 - [Multivariate Normal Distributions](https://c-huang-tty.github.io/posts/2021/01/07/multivariate-normal-distributions/)
+- [Conditional Distributions and Expectation](https://c-huang-tty.github.io/posts/2021/01/08/conditonal-distributions-and-expectation/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
