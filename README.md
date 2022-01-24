@@ -26,6 +26,9 @@ Personal academic website.
 - [Shakespear's New Poem](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-02-blog-post-1.md)
 - [Some Common Discrete Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-03-blog-post-1.md)
 - [Some Common Continuous Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-04-blog-post-1.md)
+- [Statistical Quantities](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-05-blog-post-1.md)
+- [Order Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-06-blog-post-1.md)
+- [Multivariate Normal Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-07-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
