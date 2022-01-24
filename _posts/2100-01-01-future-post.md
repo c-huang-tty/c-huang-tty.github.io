@@ -32,6 +32,9 @@ This post is left for holding table of contents.
 - [Shakespear's New Poem](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
 - [Some Common Discrete Distributions](https://c-huang-tty.github.io/posts/2021/01/03/some-common-discrete-distributions/)
 - [Some Common Continuous Distributions](https://c-huang-tty.github.io/posts/2021/01/04/some-common-continuous-distributions/)
+- [Statistical Quantities](https://c-huang-tty.github.io/posts/2021/01/05/statistical-quantities/)
+- [Order Statistics](https://c-huang-tty.github.io/posts/2021/01/06/order-statistics/)
+- [Multivariate Normal Distributions](https://c-huang-tty.github.io/posts/2021/01/07/multivariate-normal-distributions/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
