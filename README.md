@@ -30,6 +30,7 @@ Personal academic website.
 - [Order Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-06-blog-post-1.md)
 - [Multivariate Normal Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-07-blog-post-1.md)
 - [Conditional Distributions and Expectation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-08-blog-post-1.md)
+- [Parameter Point Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-09-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
