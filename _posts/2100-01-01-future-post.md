@@ -37,6 +37,7 @@ This post is left for holding table of contents.
 - [Multivariate Normal Distributions](https://c-huang-tty.github.io/posts/2021/01/07/multivariate-normal-distributions/)
 - [Conditional Distributions and Expectation](https://c-huang-tty.github.io/posts/2021/01/08/conditonal-distributions-and-expectation/)
 - [Parameter Point Estimation](https://c-huang-tty.github.io/posts/2021/01/09/parameter-point-estimation/)
+- [Evaluation of Point Estimation](https://c-huang-tty.github.io/posts/2021/01/10/evaluation-point-estimation/)
 
 
 ## Smart Eye
