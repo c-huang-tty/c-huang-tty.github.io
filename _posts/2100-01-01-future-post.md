@@ -38,6 +38,8 @@ This post is left for holding table of contents.
 - [Conditional Distributions and Expectation](https://c-huang-tty.github.io/posts/2021/01/08/conditonal-distributions-and-expectation/)
 - [Parameter Point Estimation](https://c-huang-tty.github.io/posts/2021/01/09/parameter-point-estimation/)
 - [Evaluation of Point Estimation](https://c-huang-tty.github.io/posts/2021/01/10/evaluation-point-estimation/)
+- [Parameter Interval Estimation](https://c-huang-tty.github.io/posts/2021/01/11/parameter-interval-estimation/)
+- [Parameter Hypothesis Test](https://c-huang-tty.github.io/posts/2021/01/12/parameter-hypothesis-test/)
 
 
 ## Smart Eye
