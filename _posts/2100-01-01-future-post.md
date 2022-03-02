@@ -18,7 +18,6 @@ This post is left for holding table of contents.
 - [Argument Type Conversions](https://c-huang-tty.github.io/posts/2022/01/12/argument-type-conversions/)
 - [Pointers to Functions](https://c-huang-tty.github.io/posts/2022/01/13/pointers-to-functions/)
 
-
 ## Data Sharing 
 - [Between Functions Within A File](https://c-huang-tty.github.io/posts/2022/01/01/data-sharing-between-functions/)
 - [Between Files](https://c-huang-tty.github.io/posts/2022/01/02/data-sharing-between-files/)
@@ -40,7 +39,8 @@ This post is left for holding table of contents.
 - [Evaluation of Point Estimation](https://c-huang-tty.github.io/posts/2021/01/10/evaluation-point-estimation/)
 - [Parameter Interval Estimation](https://c-huang-tty.github.io/posts/2021/01/11/parameter-interval-estimation/)
 - [Parameter Hypothesis Test](https://c-huang-tty.github.io/posts/2021/01/12/parameter-hypothesis-test/)
-
+- [Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/13/chi-squared-test/)
+- [Analysis of Variance](https://c-huang-tty.github.io/posts/2021/01/14/analysis-of-variance/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
