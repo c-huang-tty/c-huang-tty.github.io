@@ -37,6 +37,7 @@ Personal academic website.
 - [t Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-13-blog-post-1.md)
 - [Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-14-blog-post-1.md)
 - [Analysis of Variance](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-15-blog-post-1.md)
+- [Summary of Statistical Tests](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-16-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
