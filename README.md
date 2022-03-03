@@ -34,8 +34,9 @@ Personal academic website.
 - [Evaluation of Point Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-10-blog-post-1.md)
 - [Parameter Interval Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-11-blog-post-1.md)
 - [Parameter Hypothesis Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-12-blog-post-1.md)
-- [Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-13-blog-post-1.md)
-- [Analysis of Variance](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-14-blog-post-1.md)
+- [t Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-13-blog-post-1.md)
+- [Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-14-blog-post-1.md)
+- [Analysis of Variance](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-15-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
