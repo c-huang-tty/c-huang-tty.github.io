@@ -45,7 +45,7 @@ This post is left for holding table of contents.
 - [Summary of Statistical Tests](https://c-huang-tty.github.io/posts/2021/01/16/summary-of-statistical-tests/)
 - [Python [01] - Data Representation](https://c-huang-tty.github.io/posts/2021/01/17/statistics-python-data-representation/)
 - [Python [02] - t Test & F Test](https://c-huang-tty.github.io/posts/2021/01/18/statistics-python-t-F-test/)
-- [Python [03] - Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/18/statistics-chi-squared-test/)
+- [Python [03] - Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/19/statistics-chi-squared-test/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
