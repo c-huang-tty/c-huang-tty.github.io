@@ -41,6 +41,7 @@ Personal academic website.
 - [Python [01] - Data Representation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-17-blog-post-1.md)
 - [Python [02] - t Test & F Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-18-blog-post-1.md)
 - [Python [03] - Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-19-blog-post-1.md)
+- [Experimental Design](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-20-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
