@@ -30,9 +30,11 @@ Personal academic website.
 - [Order Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-06-blog-post-1.md)
 - [Multivariate Normal Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-07-blog-post-1.md)
 - [Conditional Distributions and Expectation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-08-blog-post-1.md)
+- [Problem Set [01] - Probabilities](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-21-blog-post-1.md)
 - [Parameter Point Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-09-blog-post-1.md)
 - [Evaluation of Point Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-10-blog-post-1.md)
 - [Parameter Interval Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-11-blog-post-1.md)
+- [Problem Set [02] - Parameter Estimation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-22-blog-post-1.md)
 - [Parameter Hypothesis Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-12-blog-post-1.md)
 - [t Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-13-blog-post-1.md)
 - [Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-14-blog-post-1.md)
@@ -42,6 +44,7 @@ Personal academic website.
 - [Python [02] - t Test & F Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-18-blog-post-1.md)
 - [Python [03] - Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-19-blog-post-1.md)
 - [Experimental Design](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-20-blog-post-1.md)
+- [Monte Carlo](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-23-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
