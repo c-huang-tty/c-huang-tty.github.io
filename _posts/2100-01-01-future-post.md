@@ -35,9 +35,11 @@ This post is left for holding table of contents.
 - [Order Statistics](https://c-huang-tty.github.io/posts/2021/01/06/order-statistics/)
 - [Multivariate Normal Distributions](https://c-huang-tty.github.io/posts/2021/01/07/multivariate-normal-distributions/)
 - [Conditional Distributions and Expectation](https://c-huang-tty.github.io/posts/2021/01/08/conditonal-distributions-and-expectation/)
+- [Problem Set [01] - Probabilities](https://c-huang-tty.github.io/posts/2021/01/21/problem-set-probabilities/)
 - [Parameter Point Estimation](https://c-huang-tty.github.io/posts/2021/01/09/parameter-point-estimation/)
 - [Evaluation of Point Estimation](https://c-huang-tty.github.io/posts/2021/01/10/evaluation-point-estimation/)
 - [Parameter Interval Estimation](https://c-huang-tty.github.io/posts/2021/01/11/parameter-interval-estimation/)
+- [Problem Set [02] - Parameter Estimation](https://c-huang-tty.github.io/posts/2021/01/22/problem-set-parameter-estimation/)
 - [Parameter Hypothesis Test](https://c-huang-tty.github.io/posts/2021/01/12/parameter-hypothesis-test/)
 - [t Test](https://c-huang-tty.github.io/posts/2021/01/13/t-test/)
 - [Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/14/chi-squared-test/)
@@ -47,6 +49,7 @@ This post is left for holding table of contents.
 - [Python [02] - t Test & F Test](https://c-huang-tty.github.io/posts/2021/01/18/statistics-python-t-F-test/)
 - [Python [03] - Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/19/statistics-chi-squared-test/)
 - [Experimental Design](https://c-huang-tty.github.io/posts/2021/01/20/experimental-design/)
+- [Monte Carlo](https://c-huang-tty.github.io/posts/2021/01/23/monte-carlo/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
