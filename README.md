@@ -45,6 +45,8 @@ Personal academic website.
 - [Python [03] - Chi-Squared Test](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-19-blog-post-1.md)
 - [Experimental Design](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-20-blog-post-1.md)
 - [Monte Carlo](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-23-blog-post-1.md)
+- [Variance Reducing Techniques](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-24-blog-post-1.md)
+- [From Uniform to General Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-25-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
