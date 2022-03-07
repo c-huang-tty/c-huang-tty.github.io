@@ -26,7 +26,7 @@ This post is left for holding table of contents.
 - [Between Local Devices](https://c-huang-tty.github.io/posts/2022/01/05/data-sharing-between-local-devices/)
 - [Between Remote Devices](https://c-huang-tty.github.io/posts/2022/01/06/data-sharing-between-remote-devices/)
 
-## Statistics
+## Statistics Basics
 - [Probability vs Statistics](https://c-huang-tty.github.io/posts/2021/01/01/probability-and-statistics/)
 - [Shakespear's New Poem](https://c-huang-tty.github.io/posts/2021/01/02/application-of-statistics/)
 - [Some Common Discrete Distributions](https://c-huang-tty.github.io/posts/2021/01/03/some-common-discrete-distributions/)
