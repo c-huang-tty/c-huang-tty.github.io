@@ -50,6 +50,8 @@ This post is left for holding table of contents.
 - [Python [03] - Chi-Squared Test](https://c-huang-tty.github.io/posts/2021/01/19/statistics-chi-squared-test/)
 - [Experimental Design](https://c-huang-tty.github.io/posts/2021/01/20/experimental-design/)
 - [Monte Carlo](https://c-huang-tty.github.io/posts/2021/01/23/monte-carlo/)
+- [Variance Reducing Techniques](https://c-huang-tty.github.io/posts/2021/01/24/variance-reducing-techniques/)
+- [From Uniform to General Distributions](https://c-huang-tty.github.io/posts/2021/01/25/from-uniform-to-general-distributions/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
