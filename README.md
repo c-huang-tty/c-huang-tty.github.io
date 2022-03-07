@@ -21,7 +21,7 @@ Personal academic website.
 - [Between Local Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-05-blog-post-1.md)
 - [Between Remote Devices](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-01-06-blog-post-1.md)
 
-### Statistics
+### Statistics Basics
 - [Probability vs Statistics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-01-blog-post-1.md)
 - [Shakespear's New Poem](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-02-blog-post-1.md)
 - [Some Common Discrete Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-03-blog-post-1.md)
