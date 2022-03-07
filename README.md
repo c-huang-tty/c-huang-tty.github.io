@@ -47,6 +47,11 @@ Personal academic website.
 - [Monte Carlo](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-23-blog-post-1.md)
 - [Variance Reducing Techniques](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-24-blog-post-1.md)
 - [From Uniform to General Distributions](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-25-blog-post-1.md)
+- [Problem Set [03] - Monte Carlo](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-26-blog-post-1.md)
+- [Unitary Regression Model](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-27-blog-post-1.md)
+- [Multiple Regression Model](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-28-blog-post-1.md)
+- [Factor and Principle Component Analysis](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-29-blog-post-1.md)
+- [Clustering Analysis](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-30-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
