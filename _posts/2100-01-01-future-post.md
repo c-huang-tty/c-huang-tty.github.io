@@ -52,6 +52,11 @@ This post is left for holding table of contents.
 - [Monte Carlo](https://c-huang-tty.github.io/posts/2021/01/23/monte-carlo/)
 - [Variance Reducing Techniques](https://c-huang-tty.github.io/posts/2021/01/24/variance-reducing-techniques/)
 - [From Uniform to General Distributions](https://c-huang-tty.github.io/posts/2021/01/25/from-uniform-to-general-distributions/)
+- [Problem Set [03] - Monte Carlo](https://c-huang-tty.github.io/posts/2021/01/26/problem-set-monte-carlo/)
+- [Unitary Regression Model](https://c-huang-tty.github.io/posts/2021/01/27/unitary-regression-model/)
+- [Multiple Regression Model](https://c-huang-tty.github.io/posts/2021/01/28/multiple-regression-model/)
+- [Factor and Principle Component Analysis](https://c-huang-tty.github.io/posts/2021/01/29/factor-principle-component-analysis/)
+- [Clustering Analysis](https://c-huang-tty.github.io/posts/2021/01/30/clustering-analysis/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
