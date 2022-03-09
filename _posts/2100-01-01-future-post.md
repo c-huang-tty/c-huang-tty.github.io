@@ -57,6 +57,7 @@ This post is left for holding table of contents.
 - [Multiple Regression Model](https://c-huang-tty.github.io/posts/2021/01/28/multiple-regression-model/)
 - [Factor and Principle Component Analysis](https://c-huang-tty.github.io/posts/2021/01/29/factor-principle-component-analysis/)
 - [Clustering Analysis](https://c-huang-tty.github.io/posts/2021/01/30/clustering-analysis/)
+- [Summary](https://c-huang-tty.github.io/posts/2021/01/31/summary/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
