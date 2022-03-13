@@ -60,9 +60,9 @@ This post is left for holding table of contents.
 - [Summary](https://c-huang-tty.github.io/posts/2021/01/31/summary/)
 
 ## Data Manipulation
-- [Data Types [01]: Python Built-In Types](https://c-huang-tty.github.io/posts/2021/02/01/python-data-types/)
-- [Data Types [02]: Numpy Array Basics](https://c-huang-tty.github.io/posts/2021/02/02/numpy-array-basics/)
-- [Data Types [03]: Pandas DataFrame Basics](https://c-huang-tty.github.io/posts/2021/02/03/pandas-dataframe-basics/)
+- [Data Types [01] - Python Built-In Types](https://c-huang-tty.github.io/posts/2021/02/01/python-data-types/)
+- [Data Types [02] - Numpy Array Basics](https://c-huang-tty.github.io/posts/2021/02/02/numpy-array-basics/)
+- [Data Types [03] - Pandas DataFrame Basics](https://c-huang-tty.github.io/posts/2021/02/03/pandas-dataframe-basics/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
