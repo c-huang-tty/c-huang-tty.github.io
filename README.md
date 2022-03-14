@@ -53,7 +53,7 @@ Personal academic website.
 - [Factor and Principle Component Analysis](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-29-blog-post-1.md)
 - [Clustering Analysis](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-30-blog-post-1.md)
 
-### Data Manipulation
+### Data Analysis
 - [Data Types [01]: Python Built-In Types](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-01-blog-post-1.md)
 - [Data Types [02]: Numpy Array Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-02-blog-post-1.md)
 - [Data Types [03]: Pandas DataFrame Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-03-blog-post-1.md)
