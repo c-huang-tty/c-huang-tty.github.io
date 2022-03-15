@@ -60,6 +60,7 @@ Personal academic website.
 - [Data Cleaning [01] - Handling Missing Data](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-04-blog-post-1.md)
 - [Data Cleaning [02] - Data Transformation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-05-blog-post-1.md)
 - [Data Cleaning [03] - String Manipulation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-06-blog-post-1.md)
+- [Data Cleaning [04] - Regular Expression Examples](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-06-blog-post-2.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
