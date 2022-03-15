@@ -57,6 +57,9 @@ Personal academic website.
 - [Data Types [01]: Python Built-In Types](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-01-blog-post-1.md)
 - [Data Types [02]: Numpy Array Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-02-blog-post-1.md)
 - [Data Types [03]: Pandas DataFrame Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-03-blog-post-1.md)
+- [Data Cleaning [01] - Handling Missing Data](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-04-blog-post-1.md)
+- [Data Cleaning [02] - Data Transformation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-05-blog-post-1.md)
+- [Data Cleaning [03] - String Manipulation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-06-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
