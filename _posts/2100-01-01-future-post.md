@@ -66,6 +66,7 @@ This post is left for holding table of contents.
 - [Data Cleaning [01] - Handling Missing Data](https://c-huang-tty.github.io/posts/2021/02/04/handling-missing-data/)
 - [Data Cleaning [02] - Data Transformation](https://c-huang-tty.github.io/posts/2021/02/05/data-transformation/)
 - [Data Cleaning [03] - String Manipulation](https://c-huang-tty.github.io/posts/2021/02/06/string-manipulation/)
+- [Data Cleaning [04] - Regular Expression Examples](https://c-huang-tty.github.io/posts/2021/02/06/regular-expression-examples/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
