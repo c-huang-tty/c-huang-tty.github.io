@@ -64,6 +64,8 @@ Personal academic website.
 - [Data Wrangling [01] - Multi-Indexing](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-07-blog-post-1.md)
 - [Data Wrangling [02] - Merging DataFrames](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-08-blog-post-1.md)
 - [Data Wrangling [03] - Reshaping and Pivot Tables](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-09-blog-post-1.md)
+- [Data Aggregation and Grouping [01] - GroupBy Method](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-10-blog-post-1.md)
+- [Data Aggregation and Grouping [02] - Data Aggregation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-11-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
