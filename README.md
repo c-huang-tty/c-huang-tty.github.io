@@ -54,13 +54,16 @@ Personal academic website.
 - [Clustering Analysis](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-01-30-blog-post-1.md)
 
 ### Data Analysis
-- [Data Types [01]: Python Built-In Types](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-01-blog-post-1.md)
-- [Data Types [02]: Numpy Array Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-02-blog-post-1.md)
-- [Data Types [03]: Pandas DataFrame Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-03-blog-post-1.md)
-- [Data Cleaning [01] - Handling Missing Data](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-04-blog-post-1.md)
-- [Data Cleaning [02] - Data Transformation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-05-blog-post-1.md)
-- [Data Cleaning [03] - String Manipulation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-06-blog-post-1.md)
-- [Data Cleaning [04] - Regular Expression Examples](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-02-06-blog-post-2.md)
+- [Data Types [01]: Python Built-In Types](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-01-blog-post-1.md)
+- [Data Types [02]: Numpy Array Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-02-blog-post-1.md)
+- [Data Types [03]: Pandas DataFrame Basics](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-03-blog-post-1.md)
+- [Data Cleaning [01] - Handling Missing Data](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-04-blog-post-1.md)
+- [Data Cleaning [02] - Data Transformation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-05-blog-post-1.md)
+- [Data Cleaning [03] - String Manipulation](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-06-blog-post-1.md)
+- [Data Cleaning [04] - Regular Expression Examples](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-06-blog-post-2.md)
+- [Data Wrangling [01] - Multi-Indexing](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-07-blog-post-1.md)
+- [Data Wrangling [02] - Merging DataFrames](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-08-blog-post-1.md)
+- [Data Wrangling [03] - Reshaping and Pivot Tables](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-09-blog-post-1.md)
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
