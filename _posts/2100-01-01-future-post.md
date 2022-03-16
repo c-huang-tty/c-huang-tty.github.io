@@ -60,13 +60,16 @@ This post is left for holding table of contents.
 - [Summary](https://c-huang-tty.github.io/posts/2021/01/31/summary/)
 
 ## Data Analysis
-- [Data Types [01] - Python Built-In Types](https://c-huang-tty.github.io/posts/2021/02/01/python-data-types/)
-- [Data Types [02] - Numpy Array Basics](https://c-huang-tty.github.io/posts/2021/02/02/numpy-array-basics/)
-- [Data Types [03] - Pandas DataFrame Basics](https://c-huang-tty.github.io/posts/2021/02/03/pandas-dataframe-basics/)
-- [Data Cleaning [01] - Handling Missing Data](https://c-huang-tty.github.io/posts/2021/02/04/handling-missing-data/)
-- [Data Cleaning [02] - Data Transformation](https://c-huang-tty.github.io/posts/2021/02/05/data-transformation/)
-- [Data Cleaning [03] - String Manipulation](https://c-huang-tty.github.io/posts/2021/02/06/string-manipulation/)
-- [Data Cleaning [04] - Regular Expression Examples](https://c-huang-tty.github.io/posts/2021/02/06/regular-expression-examples/)
+- [Data Types [01] - Python Built-In Types](https://c-huang-tty.github.io/posts/2022/02/01/python-data-types/)
+- [Data Types [02] - Numpy Array Basics](https://c-huang-tty.github.io/posts/2022/02/02/numpy-array-basics/)
+- [Data Types [03] - Pandas DataFrame Basics](https://c-huang-tty.github.io/posts/2022/02/03/pandas-dataframe-basics/)
+- [Data Cleaning [01] - Handling Missing Data](https://c-huang-tty.github.io/posts/2022/02/04/handling-missing-data/)
+- [Data Cleaning [02] - Data Transformation](https://c-huang-tty.github.io/posts/2022/02/05/data-transformation/)
+- [Data Cleaning [03] - String Manipulation](https://c-huang-tty.github.io/posts/2022/02/06/string-manipulation/)
+- [Data Cleaning [04] - Regular Expression Examples](https://c-huang-tty.github.io/posts/2022/02/06/regular-expression-examples/)
+- [Data Wrangling [01] - Multi-Indexing](https://c-huang-tty.github.io/posts/2022/02/07/multi-indexing/)
+- [Data Wrangling [02] - Merging DataFrames](https://c-huang-tty.github.io/posts/2022/02/08/multi-indexing/)
+- [Data Wrangling [03] - Reshaping and Pivot Tables](https://c-huang-tty.github.io/posts/2022/02/09/reshaping-pivot-tables/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
