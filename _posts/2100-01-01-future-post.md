@@ -70,6 +70,8 @@ This post is left for holding table of contents.
 - [Data Wrangling [01] - Multi-Indexing](https://c-huang-tty.github.io/posts/2022/02/07/multi-indexing/)
 - [Data Wrangling [02] - Merging DataFrames](https://c-huang-tty.github.io/posts/2022/02/08/multi-indexing/)
 - [Data Wrangling [03] - Reshaping and Pivot Tables](https://c-huang-tty.github.io/posts/2022/02/09/reshaping-pivot-tables/)
+- [Data Aggregation and Grouping [01] - GroupBy Method](https://c-huang-tty.github.io/posts/2022/02/10/data-aggregation-groupby/)
+- [Data Aggregation and Grouping [02] - Data Aggregation](https://c-huang-tty.github.io/posts/2022/02/11/data-aggregation/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
