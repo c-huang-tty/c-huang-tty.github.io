@@ -74,6 +74,9 @@ This post is left for holding table of contents.
 - [Data Aggregation and Grouping [02] - Data Aggregation](https://c-huang-tty.github.io/posts/2022/02/11/data-aggregation/)
 - [Data Visualization [01] - Matplotlib Basics](https://c-huang-tty.github.io/posts/2022/02/12/data-visualization-matplotlib/)
 - [Data Visualization [02] - Pandas and Seaborn Basics](https://c-huang-tty.github.io/posts/2022/02/13/data-visualization-pandas-seaborn/)
+- [Data Modeling [01] - Patsy and Statsmodels](https://c-huang-tty.github.io/posts/2022/02/14/patsy-and-statsmodels/)
+- [Data Modeling [02] - Scikit-Learn](https://c-huang-tty.github.io/posts/2022/02/15/scikit-learn/)
+- [Data Modeling [03] - Pytorch](https://c-huang-tty.github.io/posts/2022/02/16/pytorch/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
