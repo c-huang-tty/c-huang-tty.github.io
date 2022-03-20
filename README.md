@@ -71,6 +71,8 @@ Personal academic website.
 - [Data Modeling [01] - Patsy and Statsmodels](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-14-blog-post-1.md)
 - [Data Modeling [02] - Scikit-Learn](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-15-blog-post-1.md)
 - [Data Modeling [03] - Pytorch](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-16-blog-post-1.md)
+- [Data Modeling [04] - Keras and Tensorflow](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2022-02-17-blog-post-1.md)
+
 
 ### Smart Eye
 - [Getting Started](https://github.com/c-huang-tty/c-huang-tty.github.io/blob/master/_posts/2021-12-01-blog-post-1.md)
