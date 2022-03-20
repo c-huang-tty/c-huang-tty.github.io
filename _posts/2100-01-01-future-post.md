@@ -77,6 +77,7 @@ This post is left for holding table of contents.
 - [Data Modeling [01] - Patsy and Statsmodels](https://c-huang-tty.github.io/posts/2022/02/14/patsy-and-statsmodels/)
 - [Data Modeling [02] - Scikit-Learn](https://c-huang-tty.github.io/posts/2022/02/15/scikit-learn/)
 - [Data Modeling [03] - Pytorch](https://c-huang-tty.github.io/posts/2022/02/16/pytorch/)
+- [Data Modeling [04] - Keras and Tensorflow](https://c-huang-tty.github.io/posts/2022/02/17/keras-tensorflow/)
 
 ## Smart Eye
 - [Getting Started](https://c-huang-tty.github.io/posts/2021/12/01/smart-eye-getting-started/)
