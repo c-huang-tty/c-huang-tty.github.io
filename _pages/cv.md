@@ -14,9 +14,10 @@ redirect_from:
 ## Education
 * B.S. in Mechanical Engineering, Tongji University, Shanghai, China, 2012-2017.
 * M.S. in Mechanical Engineering, Tsinghua University, Beijing, China, 2017-2020.
-* Ph.D in Mechanical Engineering, the University of Tokyo, 2020-Present.
+* Ph.D in Mechanical Engineering, the University of Tokyo, 2020-2024.
 
 ## Honors
+* SEUT Scholarship, Issued by the University of Tokyo, 2020-2023.
 * Tsinghua Outstanding Graduates, Issued by Tsinghua University, June, 2020.
 * Graduate National Scholarship, Issued by the Ministry of Education of the People's Republic of China, 2018-2019.
 * Second Class Comprehensive Excellence Scholarship, Issued by Tsinghua University, 2017-2018.
@@ -27,8 +28,8 @@ redirect_from:
   
 ## Language Proficiency
 * Chinese: Native Speaker
-* English: Upper Intermediate Level
-* Japanese: Intermediate Level
+* English: Business Level
+* Japanese: Business Level
 * German: Intermediate Level 
 
 ## Publications
